@@ -1,12 +1,5 @@
-## Hi there 👋
+## Welcome to HHUACM Git!
 
-<!--
+这里是河海大学ACM队的专用Git仓库（Github版），由HHUACM技术组负责管理。
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+本仓库被用于存储HHUACM静态主页、存放必要文档、以及其他必要的队内程序代码。
